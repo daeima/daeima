@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
-<h3 align="center">An aspiring web developer, passionate about UX/UI Design and</h3>
+<h3 align="center">An aspiring web developer</h3>
 
 - 🌱 I’m currently learning **React & Node.js**
 

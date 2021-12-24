@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
 <h3 align="center">An aspiring web developer, passionate about UX/UI Design and</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React & Node.js**
 
 - 👨‍💻 All of my projects are available at [http://troopl.com/criss](http://troopl.com/criss)
 
